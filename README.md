@@ -1,4 +1,4 @@
-Hi there 👋
+Hi there 👋  
 I’m currently learning Computer Major 🌱
 
 <!--
