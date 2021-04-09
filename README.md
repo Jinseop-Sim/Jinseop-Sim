@@ -1,4 +1,4 @@
-<p align="center">✨ 🌱 🌱 🌱 🌱 🌱 🌱 🌱 🌱 ✨</p>
+# <p align="center">✨ 🌱 🌱 🌱 🌱 🌱 🌱 🌱 🌱 ✨</p>
 
 <!--
 **Jinseop-Sim/Jinseop-Sim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
