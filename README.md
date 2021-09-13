@@ -1,4 +1,5 @@
-# <p align="center"> 📚 I Love To Eat Code 💻 </p>
+
+### Index
 
 - [DATABASE](https://github.com/Jinseop-Sim/PNU-Database)
 - [AI Programming](https://github.com/Jinseop-Sim/PNU-AI-Programming)
