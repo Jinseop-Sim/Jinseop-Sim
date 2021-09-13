@@ -1,3 +1,6 @@
+Language which I learned
+<p align="center">
+<img src="https://img.shields.io/badge/PYTHON-0696D7?style=for-the-badge&logo=Python&logoColor=yellow">  
 
 ### Index
 
