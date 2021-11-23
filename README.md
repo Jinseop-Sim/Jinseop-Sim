@@ -9,7 +9,7 @@
 - [Algorithm](https://github.com/Jinseop-Sim/PNU-Algorithm-Study) & [Python](https://github.com/Jinseop-Sim/Python-Study)
 - [Computer Security](https://github.com/Jinseop-Sim/PNU-Computer-Security)
 - [DATABASE](https://github.com/Jinseop-Sim/PNU-Database)
-- [HTML](https://)
+- [HTML](https://github.com/Jinseop-Sim/HTML)
 - [Java](https://github.com/Jinseop-Sim/PNU-Java)
 - [Network](https://github.com/Jinseop-Sim/PNU-Network-Study)
 - [Web Hacking](https://github.com/Jinseop-Sim/Web-Hacking-Study)
