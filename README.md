@@ -1,4 +1,4 @@
-### <p align="center">🌏 Language which I learned 🌎</p>
+### <p align="center">🌏 Skills which I learned 🌎</p>
 <p align="center">
 <img src="https://img.shields.io/badge/PYTHON-0696D7?style=for-the-badge&logo=Python&logoColor=yellow"> <img src="https://img.shields.io/badge/Java-FF0000?style=for-the-badge&logo=Java&logoColor="> <img src="https://img.shields.io/badge/MYSQL-000000?style=for-the-badge&logo=mysql&logoColor=skyblue"> <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=Cplusplus&logoColor=white"> <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=Springboot&logoColor=white">   
 
