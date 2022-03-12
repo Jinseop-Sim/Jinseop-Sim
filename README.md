@@ -4,11 +4,11 @@
 
 
 ### :bookmark_tabs:  Index
-  :books: TIL  
+:books: TIL  
     - [Algorithm](https://github.com/Jinseop-Sim/PNU-Algorithm-Study) & [Python](https://github.com/Jinseop-Sim/Python-Study)  
     - [Spring Boot](https://github.com/Jinseop-Sim/-2022-Winter-Spring-Boot)  
   
-  :books: Knowledge Storage  
+:books: Knowledge Storage  
     - [Computer Security](https://github.com/Jinseop-Sim/PNU-Computer-Security)  
     - [DATABASE](https://github.com/Jinseop-Sim/PNU-Database)  
     - [HTML](https://github.com/Jinseop-Sim/HTML)  
