@@ -21,6 +21,4 @@
   - [AI Programming](https://github.com/Jinseop-Sim/PNU-AI-Programming)  
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=Jinseop-Sim&show_icons=true&theme=gruvbox&hide=["issues"]">
-  
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jinseop-Sim&layout=compact)](https://github.com/Jinseop-Sim/github-readme-stats)
+<img src="https://github-readme-stats.vercel.app/api?username=Jinseop-Sim&show_icons=true&theme=gruvbox&hide=["issues"]"> [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jinseop-Sim&layout=compact)](https://github.com/Jinseop-Sim/github-readme-stats)
