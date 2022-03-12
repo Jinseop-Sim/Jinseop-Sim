@@ -9,6 +9,7 @@
   - [Spring Boot](https://github.com/Jinseop-Sim/-2022-Winter-Spring-Boot)  
   - [OS](https://github.com/Jinseop-Sim/PNU-Operating-System)
   - [Android](https://github.com/Jinseop-Sim/PNU-Kotlin-Android-)
+  - [Computer Structure](https://github.com/Jinseop-Sim/PNU-Computer-Structure)
   
 #### :books: Knowledge Storage  
   - [Computer Security](https://github.com/Jinseop-Sim/PNU-Computer-Security)  
