@@ -22,4 +22,4 @@
 
 <p align=center>
 <img src="https://github-readme-stats.vercel.app/api?username=Jinseop-Sim&show_icons=true&theme=gruvbox&hide=["issues"]">
-[![Solved.ac](http://mazassumnida.wtf/api/v2/generate_badge?boj={handle})](https://solved.ac/)
+[![Solved.ac dmdlzm123](http://mazassumnida.wtf/api/v2/generate_badge?boj={handle})](https://solved.ac/)
