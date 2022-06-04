@@ -23,4 +23,3 @@
 <p align=center>
 <img src="https://github-readme-stats.vercel.app/api?username=Jinseop-Sim&show_icons=true&theme=gruvbox&hide=["issues"]">
 </p>
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=dmdlzm123)](https://solved.ac/dmdlzm123/)
