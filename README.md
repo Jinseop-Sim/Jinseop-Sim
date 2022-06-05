@@ -1,7 +1,7 @@
 <div align ="center">
-  <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=dmdlzm123">
+  <img align="right" src="http://mazassumnida.wtf/api/v2/generate_badge?boj=dmdlzm123">
   </br>
-  <img src="https://github-readme-stats.vercel.app/api?username=Jinseop-Sim&show_icons=true&theme=gruvbox&hide=["issues"]">
+  <img align="right" src="https://github-readme-stats.vercel.app/api?username=Jinseop-Sim&show_icons=true&theme=gruvbox&hide=["issues"]">
   
   ### Which I learned?
   ---
