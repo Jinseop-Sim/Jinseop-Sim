@@ -1,7 +1,6 @@
 <div align ="center">
   <img align="right" src="http://mazassumnida.wtf/api/v2/generate_badge?boj=dmdlzm123">
   </br>
-  <img align="right" src="https://github-readme-stats.vercel.app/api?username=Jinseop-Sim&show_icons=true&theme=gruvbox&hide=["issues"]">
   
   ## 🐣Which I learned?
 <img src="https://img.shields.io/badge/PYTHON-0696D7?style=for-the-badge&logo=Python&logoColor=black"> <img src="https://img.shields.io/badge/Java-FF0000?style=for-the-badge&logo=Java&logoColor="> <img src="https://img.shields.io/badge/MYSQL-000000?style=for-the-badge&logo=mysql&logoColor=skyblue">
@@ -24,5 +23,6 @@
   - [Java](https://github.com/Jinseop-Sim/PNU-Java)  
   - [Network](https://github.com/Jinseop-Sim/PNU-Network-Study)  
   - [Web Hacking](https://github.com/Jinseop-Sim/Web-Hacking-Study)  
-  - [AI Programming](https://github.com/Jinseop-Sim/PNU-AI-Programming)
+  - [AI Programming](https://github.com/Jinseop-Sim/PNU-AI-Programming)  
 
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=Jinseop-Sim&show_icons=true&theme=gruvbox&hide=["issues"]">
