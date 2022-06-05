@@ -14,19 +14,19 @@
 <div>
   </br>
   ### :books: TIL  
-  <a href="https://github.com/Jinseop-Sim/PNU-Algorithm-Study"></a>
-  <a href="https://github.com/Jinseop-Sim/-2022-Winter-Spring-Boot"></a>
-  <a href="https://github.com/Jinseop-Sim/PNU-Operating-System"></a>
-  <a href="https://github.com/Jinseop-Sim/PNU-Kotlin-Android"></a>
-  <a href="https://github.com/Jinseop-Sim/PNU-Computer-Structure"></a>
+  <a href="https://github.com/Jinseop-Sim/PNU-Algorithm-Study">Algorithm</a>
+  <a href="https://github.com/Jinseop-Sim/-2022-Winter-Spring-Boot">Spring Boot</a>
+  <a href="https://github.com/Jinseop-Sim/PNU-Operating-System">Operating System</a>
+  <a href="https://github.com/Jinseop-Sim/PNU-Kotlin-Android">Kotlin</a>
+  <a href="https://github.com/Jinseop-Sim/PNU-Computer-Structure">Computer Sturcture</a>
   ### :books: Knowledge Storage  
-  <a href="https://github.com/Jinseop-Sim/PNU-Computer-Security"></a>
-  <a href="https://github.com/Jinseop-Sim/PNU-Database"></a>
-  <a href="https://github.com/Jinseop-Sim/HTML"></a>
-  <a href="https://github.com/Jinseop-Sim/PNU-Java"></a>
-  <a href="https://github.com/Jinseop-Sim/PNU-Network-Study"></a>
-  <a href="https://github.com/Jinseop-Sim/Web-Hacking-Study"></a> 
-  <a href="https://github.com/Jinseop-Sim/PNU-AI-Programming"></a>
+  <a href="https://github.com/Jinseop-Sim/PNU-Computer-Security">Computer Security</a>
+  <a href="https://github.com/Jinseop-Sim/PNU-Database">Database</a>
+  <a href="https://github.com/Jinseop-Sim/HTML">HTML</a>
+  <a href="https://github.com/Jinseop-Sim/PNU-Java">Java</a>
+  <a href="https://github.com/Jinseop-Sim/PNU-Network-Study">Network</a>
+  <a href="https://github.com/Jinseop-Sim/Web-Hacking-Study">Web-Hacking</a> 
+  <a href="https://github.com/Jinseop-Sim/PNU-AI-Programming">AI Programming</a>
 </div>
 
 <p align="center">
