@@ -11,7 +11,7 @@
 
 ## :bookmark_tabs:  Index  
 
-<div align = "left">
+<div>
   </br>
   ### :books: TIL  
   <a href="https://github.com/Jinseop-Sim/PNU-Algorithm-Study"></a>
@@ -19,9 +19,6 @@
   <a href="https://github.com/Jinseop-Sim/PNU-Operating-System"></a>
   <a href="https://github.com/Jinseop-Sim/PNU-Kotlin-Android"></a>
   <a href="https://github.com/Jinseop-Sim/PNU-Computer-Structure"></a>
-</div>
-<div align = "right">
-  </br>
   ### :books: Knowledge Storage  
   <a href="https://github.com/Jinseop-Sim/PNU-Computer-Security"></a>
   <a href="https://github.com/Jinseop-Sim/PNU-Database"></a>
