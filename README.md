@@ -13,24 +13,20 @@
 
 ### <p align="center"> :bookmark_tabs:  Index  </p>
 
-<div>
+<div style="float:left">
   </br>
   
   ### :books: TIL
-  </br>
-  
   <a href="https://github.com/Jinseop-Sim/PNU-Algorithm-Study">Algorithm</a></br>
   <a href="https://github.com/Jinseop-Sim/-2022-Winter-Spring-Boot">Spring Boot</a></br>
   <a href="https://github.com/Jinseop-Sim/PNU-Operating-System">Operating System</a></br>
   <a href="https://github.com/Jinseop-Sim/PNU-Kotlin-Android">Kotlin</a></br>
   <a href="https://github.com/Jinseop-Sim/PNU-Computer-Structure">Computer Sturcture</a></br>                                                     
 </div>
-<div>
+<div style="float:left">
   </br>
   
   ### :books: Knowledge Storage
-  </br>
-  
   <a href="https://github.com/Jinseop-Sim/PNU-Computer-Security">Computer Security</a></br>
   <a href="https://github.com/Jinseop-Sim/PNU-Database">Database</a></br>
   <a href="https://github.com/Jinseop-Sim/HTML">HTML</a></br>
