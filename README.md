@@ -12,11 +12,11 @@
 <div align = "left">
 ### :bookmark_tabs:  Index
 #### :books: TIL  
-  - [Algorithm](https://github.com/Jinseop-Sim/PNU-Algorithm-Study)
-  - [Spring Boot](https://github.com/Jinseop-Sim/-2022-Winter-Spring-Boot)  
-  - [OS](https://github.com/Jinseop-Sim/PNU-Operating-System)
-  - [Android](https://github.com/Jinseop-Sim/PNU-Kotlin-Android-)
-  - [Computer Structure](https://github.com/Jinseop-Sim/PNU-Computer-Structure)
+  <a href="https://github.com/Jinseop-Sim/PNU-Algorithm-Study"></a>
+  <a href="https://github.com/Jinseop-Sim/-2022-Winter-Spring-Boot"></a>
+  <a href="https://github.com/Jinseop-Sim/PNU-Operating-System"></a>
+  <a href="https://github.com/Jinseop-Sim/PNU-Kotlin-Android"></a>
+  <a href="https://github.com/Jinseop-Sim/PNU-Computer-Structure"></a>
 </div>
 <div align = "right">
 #### :books: Knowledge Storage  
