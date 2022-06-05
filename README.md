@@ -8,9 +8,8 @@
 </br>
 <img src="https://img.shields.io/badge/C++-E8E8E8?style=for-the-badge&logo=Cplusplus&logoColor=black"> <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=Springboot&logoColor=white">
 </div>  
-
+### :bookmark_tabs:  Index
 <div align = "left">
-  ### :bookmark_tabs:  Index
   #### :books: TIL  
   <a href="https://github.com/Jinseop-Sim/PNU-Algorithm-Study"></a>
   <a href="https://github.com/Jinseop-Sim/-2022-Winter-Spring-Boot"></a>
