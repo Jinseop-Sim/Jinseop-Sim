@@ -9,11 +9,11 @@
 <img src="https://img.shields.io/badge/C++-E8E8E8?style=for-the-badge&logo=Cplusplus&logoColor=black"> <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=Springboot&logoColor=white">
 </div>  
 
-### :bookmark_tabs:  Index  
+## :bookmark_tabs:  Index  
 
 <div align = "left">
   </br>
-  #### :books: TIL  
+  ### :books: TIL  
   <a href="https://github.com/Jinseop-Sim/PNU-Algorithm-Study"></a>
   <a href="https://github.com/Jinseop-Sim/-2022-Winter-Spring-Boot"></a>
   <a href="https://github.com/Jinseop-Sim/PNU-Operating-System"></a>
@@ -22,7 +22,7 @@
 </div>
 <div align = "right">
   </br>
-  #### :books: Knowledge Storage  
+  ### :books: Knowledge Storage  
   <a href="https://github.com/Jinseop-Sim/PNU-Computer-Security"></a>
   <a href="https://github.com/Jinseop-Sim/PNU-Database"></a>
   <a href="https://github.com/Jinseop-Sim/HTML"></a>
