@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=capsule%20render&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=slice&color=auto&height=300&section=header&text=Novice Developer&fontSize=90)
 <div align ="center">
   <img align="right" src="http://mazassumnida.wtf/api/v2/generate_badge?boj=dmdlzm123">
   </br>
