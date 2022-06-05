@@ -13,7 +13,7 @@
 
 ## <p align="center"> :bookmark_tabs:  Index  </p>
 
-<div style="float:left">
+<div>
   </br>
   
   ### :books: TIL
@@ -23,8 +23,7 @@
   <a href="https://github.com/Jinseop-Sim/PNU-Kotlin-Android">Kotlin</a></br>
   <a href="https://github.com/Jinseop-Sim/PNU-Computer-Structure">Computer Sturcture</a>                                                   
 </div>
-
-<div style="float:left">
+<div align = "right">
   </br>
   
   ### :books: Knowledge Storage
