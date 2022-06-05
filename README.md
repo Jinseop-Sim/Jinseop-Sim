@@ -23,11 +23,12 @@
   <a href="https://github.com/Jinseop-Sim/PNU-Kotlin-Android">Kotlin</a></br>
   <a href="https://github.com/Jinseop-Sim/PNU-Computer-Structure">Computer Sturcture</a>                                                   
 </div>
+
 <div style="float:left">
   </br>
   
   ### :books: Knowledge Storage
-  <a align="right" href="https://github.com/Jinseop-Sim/PNU-Computer-Security">Computer Security</a></br>
+  <a href="https://github.com/Jinseop-Sim/PNU-Computer-Security">Computer Security</a></br>
   <a href="https://github.com/Jinseop-Sim/PNU-Database">Database</a></br>
   <a href="https://github.com/Jinseop-Sim/HTML">HTML</a></br>
   <a href="https://github.com/Jinseop-Sim/PNU-Java">Java</a></br>
