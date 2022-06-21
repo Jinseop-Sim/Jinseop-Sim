@@ -1,7 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?type=slice&color=auto&height=200&section=header&desc=🐣Noob%20Developer&descSize=50&rotate=12&descAlignY=40&descAlign=70)
 
 <div align ="center">
-  <img align = "right" src="![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=dmdlzm123)](https://solved.ac/dmdlzm123)">
+  <img align = "right" src="http://mazassumnida.wtf/api/v2/generate_badge?boj=dmdlzm123">
  </br>
   
   ## 🐣Which I learned?
