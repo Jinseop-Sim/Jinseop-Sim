@@ -18,6 +18,6 @@
  </br>
   
   ## About me
-<img src="https://img.shields.io/badge/GitBlog-181717?style=for-the-badge&logo=GitHub&logoColor=white&link=https://jinseop-sim.github.io">
+<img src="https://img.shields.io/badge/GitBlog-181717?style=for-the-badge&logo=GitHub&logoColor=white&link=https://jinseop-sim.github.io/">
 </div>  
 </br>
