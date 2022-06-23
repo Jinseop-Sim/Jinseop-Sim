@@ -19,10 +19,10 @@
   
   ## About me
   <a href = "https://jinseop-sim.github.io/">
-   <img src="https://img.shields.io/badge/GitBlog-181717?style=social&logo=GitHub&logoColor=white&link=https://jinseop-sim.github.io/">
+   <img src="https://img.shields.io/badge/GitBlog-181717?style=flat&logo=GitHub&logoColor=white&link=https://jinseop-sim.github.io/">
    </a>
   <a href = "https://www.instagram.com/_35yed">
-   <img src="https://img.shields.io/badge/Instagram-E4405F?style=social&logo=Instagram&logoColor=white&link=https://www.instagram.com/_35yed">
+   <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=Instagram&logoColor=white&link=https://www.instagram.com/_35yed">
    </a>
 </div>  
 </br>
