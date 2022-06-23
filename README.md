@@ -14,7 +14,7 @@
 ---
 
 <div align ="center">
-  <img align = "right" src="https://github-readme-stats.vercel.app/api?username=Jinseop-Sim&show_icons=true&theme=gruvbox&hide=["issues"]">
+  <img align = "right" src="https://github-readme-stats.vercel.app/api?username=Jinseop-Sim&show_icons=true&theme=radical&hide=["issues"]">
  </br>
   
   ## 🐣 My Social 
