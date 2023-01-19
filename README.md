@@ -14,10 +14,7 @@
 ---
 
 <div align ="center">
-  <img align = "right" src="https://github-readme-stats.vercel.app/api?username=Jinseop-Sim&show_icons=true&theme=dracula&hide=["issues"]">
- </br>
-  
-  ## About me
+## About me
   <a href = "https://jinseop-sim.github.io/">
    <img src="https://img.shields.io/badge/GitBlog-181717?style=flat&logo=GitHub&logoColor=white&link=https://jinseop-sim.github.io/">
    </a>
